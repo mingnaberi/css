@@ -1,9 +1,0 @@
-body {
-
-    height: auto !important;
-
-    background: #A9BCF5;    
-
-       
-
-}
